@@ -1,6 +1,3 @@
----
-title: "Projects"
----
 
 Here you can demonstrate your projects
 
