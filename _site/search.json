@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "About this site"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you can demonstrate your projects\n\nsample(1:100)\n\n  [1]  20  47  27  12  13  81  88  23  75  49  64  46  59  43  51  79   9  33\n [19]  55  16  60  18  22  57  97  21  15  58  11   2  94  61  74  76  25  10\n [37]   4  17  67   1  50  45  84  14  65  71   7  83   3  53  56  62  39  54\n [55]  38  63  87  80  42  44  73  69  32  28  24  66  96  72  86  48   8  93\n [73]   5  26  98  68  77  95  41  19  34  99  91  52  29  89 100  31  78  40\n [91]  30  85   6  90  70  37  92  36  35  82"
+    "text": "Here you can demonstrate your projects"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "personal-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#title-of-website",
     "href": "index.html#title-of-website",
     "title": "personal-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

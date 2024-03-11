@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 41eb883a-5d23-4517-9c71-51db71f080b4
+      url: 'masato-ishizuka.netlify.app'
