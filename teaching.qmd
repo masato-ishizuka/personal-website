@@ -4,8 +4,7 @@ toc: false
 
 ## Current Course
 
-- STATS 140XP: Practice of Statistical Consulting
-Consulting *(Winter 2024)*
+- STATS 140XP: [Practice of Statistical Consulting](/teaching/index.qmd) *(Winter 2024)*
 
 ## UCLA
 

@@ -1,0 +1,106 @@
+---
+title: "Welcome To STATS140XP"
+subtitle: "Practice of Statistical Consulting"
+description: "Below are links used in this course"
+about:
+  template: trestles
+  links:
+    - text: Zoom
+      url: "https://ucla.zoom.us/j/4285433918?pwd=TVpIRndYYmZSeTg0NUUvYlhTWllUQT09"
+      icon: camera-video
+    - text: Email
+      url: "mailto:toledo60@g.ucla.edu"
+      icon: inbox-fill
+    - text: Campuswire
+      url: "https://campuswire.com"
+      icon: people 
+comments: false
+---
+
+::: column-page
+## Class Overview
+
+**Instructor:** Jose Toledo Luna
+
+**Discussion**: Wednesday 2:00pm - 3:00pm <br/> **Office Hours:** Tuesday 9:00am - 10:00am
+
+Both office hours and discussion will be held online through [Zoom](https://ucla.zoom.us/j/4285433918?pwd=TVpIRndYYmZSeTg0NUUvYlhTWllUQT09)
+
+## Required Technology
+
+Make sure to sign up or download the following software *(in order)*
+
+1.  [LaTeX](https://www.latex-project.org/get/)
+
+2.  [Overleaf](https://www.overleaf.com): Online $\LaTeX$ editor
+
+3.  [R/R Studio](https://posit.co/download/rstudio-desktop/)
+
+4.  [Quarto](https://quarto.org): An open-source scientific and technical publishing system
+
+5.  [CiteDrive](https://app.citedrive.com): Online reference manager which integrates well with Quarto and Overleaf
+
+6.  [Git](https://git-scm.com/downloads) and [Github](https://github.com): Version control
+
+We will get to this towards the end of the quarter
+
+7.  [Netlify](https://www.netlify.com): Website hosting service *(sign up using Github account)*
+
+------------------------------------------------------------------------
+
+## Resources
+
+### LaTeX Templates
+
+<details>
+
+<summary>Documment Template</summary>
+
+```{r,eval=FALSE}
+\documentclass[11pt,letterpaper]{article}
+\usepackage[top=1in,bottom=1in,left=1in,right=1in]{geometry}
+\usepackage{amsmath,amsfonts,amssymb,amsthm, bm}
+\usepackage{indentfirst,setspace}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\setlength\parindent{0pt}
+\renewcommand{\baselinestretch}{1.1}
+
+
+\begin{document}
+
+\begin{flushleft}
+NAME \hfill CLASS
+\rule{\textwidth}{.5pt}
+\end{flushleft}
+
+
+
+\end{document}
+```
+
+</details>
+
+[Presentation Template](https://www.overleaf.com/latex/templates/simpleplus-beamertheme/wfmfjhdcrdfx)
+
+### Quarto
+
+[Quarto CV Template](https://github.com/mps9506/quarto-cv)
+
+------------------------------------------------------------------------
+
+## Schedule
+
+| **Date**          | Recordings                                                                                                                                                      |
+|-------------------------|-----------------------------------------------|
+| Week 1 (1/10)     | [Introduction, Installing Software](https://ucla.zoom.us/rec/share/MPUg4L6xX3uA6G3tmiaSZ0PFMBdAHBoxzM6681FQgH52F2h6UNtcwULDqBNlRqb-.sxcyH0Uo4wZ-SJgb)           |
+| **Week 2 (1/17)** | [Intro to LaTeX](https://ucla.zoom.us/rec/share/tkUdRGTTeuL99eNX8VZoFdHbJ2p30HjMDpYTs5XLQ3ppTWI8VUmhlvlXpUsPnxMo.ioLfQQv7kS1LkBLQ)                              |
+| Week 3 (1/24)     | [Referencing on LaTeX, CiteDrive, R Projects](https://ucla.zoom.us/rec/share/Jjpatc7CLNpisJ2wCCD0LsR5So3NXznjcPWPBKIt4JRFEmsLMp_3aYTM_COYHIyX.XSHAAkaHBZNLqBJ-) |
+| Week 4 (1/31)     | [Setting up Git/Github for R Studio](https://ucla.zoom.us/rec/share/8qzl7jhK2jm2aAt4aR6IVngpDjIk1FhFNvi_FrQonz5HQZCYtaazBxkS8qwaRss._dutcJTTbi-Dmc1h)           |
+| Week 5 (2/7)      | [CV with Quarto](https://ucla.zoom.us/rec/share/sZSvm8pgvYkL1zGG3EyT7vXDPWpbX5sBXRpBji5Y6FTC7C9W1_aIuIKaSPRtSWgQ.-cDZWyLAIRKHbznc)                              |
+| Week 6 (2/14)     | [Setting up Personal Website](https://ucla.zoom.us/rec/share/FCAjlayGSJ5fSn5oL_qjuYhdsBpWiNkip8yRenmAnlftnsipGuyGEnwrg-x0_yln.zT9eZMDluPe94CEr)                 |
+| **Week 7 (2/21)** | [Adding Content to Website](https://ucla.zoom.us/rec/share/JXP7N70ZucvY84cI5DyY1XFi0kYmbjR0BnkGGJvpgDsQRRkX1U65v4gN-94r0HX2.yeNIk7dPkga5Wd3v)                   |
+| Week 8 (2/28)     |                                                                                                                                                                 |
+| Week 9 (3/6)      |                                                                                                                                                                 |
+| Week 10 (3/13)    |                                                                                                                                                                 |
+:::

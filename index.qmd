@@ -12,6 +12,7 @@ about:
       - icon: inbox-fill
         text: Email
         url: "mailto:masatoishizuka@g.ucla.edu"
+        
 image: profile-pic.png
 ---
 
@@ -19,3 +20,7 @@ image: profile-pic.png
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Attached my current [CV](/docs/CV/Masato_Ishizuka_CV.pdf "CV")
+
+## Heading 2

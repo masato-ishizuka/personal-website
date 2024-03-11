@@ -13,12 +13,16 @@ website:
       - href: teaching.qmd
         text: Teaching
 
+page-footer:
+  right: "&copy; 2024, Masato Ishizuka"
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
 
 execute: 
   freeze: auto
