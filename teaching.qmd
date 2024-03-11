@@ -1,0 +1,12 @@
+---
+toc: false
+---
+
+## Current Course
+
+- STATS 140XP: Practice of Statistical Consulting
+Consulting *(Winter 2024)*
+
+## UCLA
+
+- STATS 140XP

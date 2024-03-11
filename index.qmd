@@ -1,5 +1,18 @@
 ---
 toc: false
+about: 
+  template: trestles
+  links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/masato-ishizuka-1a9324184/
+      - icon: Github
+        text: Guthub
+        url: https://github.com/masato-ishizuka
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:masatoishizuka@g.ucla.edu"
+image: profile-pic.png
 ---
 
 ## Title of Website

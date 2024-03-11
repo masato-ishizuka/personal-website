@@ -2,28 +2,28 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Masato Ishizuka",
+    "title": "",
     "section": "",
     "text": "This is an about page. Write your informations down."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Masato Ishizuka",
+    "title": "",
     "section": "",
     "text": "Here you can demonstrate your projects"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Masato Ishizuka",
+    "title": "",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#title-of-website",
     "href": "index.html#title-of-website",
-    "title": "Masato Ishizuka",
+    "title": "",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
